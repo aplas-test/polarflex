@@ -22,7 +22,28 @@
       "months_to_renew_support": "33",
       "sme_email": "James.Janaszkiewicz@memento.net.au",
       "vendor_phone": "+86 689 912 0315",
-      "investment_number": "471"
+      "investment_number": "471",
+      "integrations": [
+        {
+          "id": "int-087",
+          "name": "INT-087",
+          "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
+          "description": "Morbi vel lectus in quam fringilla rhoncus.",
+          "sourceApplicationId": "polarflex",
+          "targetApplicationId": "hyperlocal",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "23/12/15",
+          "sme_name": "Muhammad Cammack",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mcammackh@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "28/4/15"
+        }
+      ]
     }
   ]
 }
